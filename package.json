@@ -1,0 +1,26 @@
+{
+  "name": "tokenwallet",
+  "version": "0.0.1",
+  "description": "open source ethereum wallet for ERC20 and ERC721 tokens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ethereum",
+    "blockchain",
+    "wallet",
+    "solidity",
+    "openzeppelin"
+  ],
+  "author": "ellisbywater",
+  "license": "ISC",
+  "dependencies": {
+    "babel-register": "^6.23.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.18.0"
+  },
+  "devDependencies": {
+    "openzeppelin-solidity": "^2.2.0"
+  }
+}
