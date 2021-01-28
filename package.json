@@ -21,7 +21,10 @@
     "babel-register": "^6.23.0",
     "dotenv": "^8.2.0",
     "@truffle/hdwallet-provider": "^1.1.0",
-    "truffle-hdwallet-provider-privkey": "^0.3.0"
+    "truffle-hdwallet-provider-privkey": "^0.3.0",
+    "chai": "4.2.0",
+    "chai-as-promised": "7.1.1",
+    "chai-bignumber": "3.0.0"
   },
   "devDependencies": {
     "openzeppelin-solidity": "^2.2.0"
